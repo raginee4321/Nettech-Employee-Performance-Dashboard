@@ -1,0 +1,75 @@
+# 📊 Employee Performance Analysis Using Python
+
+## 📌 Project Overview
+This project focuses on analyzing employee performance using Python. It explores employee attendance, completed projects, performance scores, salaries, and department-wise statistics to identify trends and generate meaningful business insights.
+
+## 🎯 Project Objectives
+- Analyze overall employee performance.
+- Identify top and lowest-performing employees.
+- Compare performance across departments.
+- Analyze employee attendance and project completion.
+- Explore relationships between performance, attendance, and salary.
+- Generate analytical reports and visualizations.
+
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## 📂 Dataset Description
+The dataset contains 100 employee records with the following information:
+- Employee Name
+- Department
+- Attendance (%)
+- Projects Completed
+- Performance Score
+- Salary
+- Month
+
+## 🧹 Data Cleaning & Preparation
+- Checked missing values and duplicate records.
+- Removed duplicate records.
+- Handled missing numerical values using median imputation.
+- Converted the Month column into datetime format.
+- Checked data types and data consistency.
+
+## 📈 Analysis Performed
+1. Overall employee performance analysis.
+2. Top 10 employee identification.
+3. Department-wise performance comparison.
+4. Average attendance by department.
+5. Average salary by department.
+6. Monthly employee performance analysis.
+7. Correlation analysis between numerical variables.
+
+## 🔍 Key Findings
+- Total Employees Analyzed: 100
+- Average Attendance: 87.03%
+- Average Projects Completed: 4.71
+- Average Performance Score: 85.46
+- Average Salary: 50,640
+- Sales department recorded the highest average performance score of 87.585.
+- Finance department recorded an average performance score of 84.175.
+
+## 📊 Project Outcomes
+- Identified employee performance trends.
+- Compared performance across different departments.
+- Analyzed attendance and project completion patterns.
+- Identified top-performing and low-performing employees.
+- Generated summary reports and visualizations.
+- Exported cleaned datasets and department-wise reports.
+
+## 💡 Skills Demonstrated
+Python | Pandas | NumPy | Data Cleaning | Exploratory Data Analysis (EDA) | Data Visualization | Statistical Analysis | Data Interpretation
+
+## 📁 Project Files
+- Jupyter Notebook containing the complete analysis.
+- Cleaned employee dataset.
+- Department performance summary.
+- Top performers report.
+
+## 👨‍💻 Author
+Data Analyst | Python | Data Analytics
+
